@@ -1,0 +1,38 @@
+.lue-wrap .lue-intro {
+	max-width: 900px;
+}
+
+.lue-wrap .lue-card {
+	background: #fff;
+	border: 1px solid #c3c4c7;
+	border-radius: 4px;
+	box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+	margin: 16px 0;
+	max-width: 900px;
+	padding: 4px 20px 16px;
+}
+
+.lue-wrap .lue-card h2 {
+	margin-top: 16px;
+}
+
+.lue-wrap .lue-search-row {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 8px;
+	align-items: center;
+}
+
+.lue-wrap .lue-table {
+	margin-top: 8px;
+}
+
+.lue-wrap .lue-col-check {
+	width: 80px;
+	text-align: center;
+}
+
+.lue-wrap .lue-notice {
+	max-width: 900px;
+	margin-top: 16px;
+}
